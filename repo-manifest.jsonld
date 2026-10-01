@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/advanced-context-infrastructure/commit/2954bd8dce87e700daf22055dbad0316af5115fd",
       "git:hexsha": "2954bd8dce87e700daf22055dbad0316af5115fd",
-      "repolex:parseStatus": "ast_complete",
+      "repolex:parseStatus": "enrich_complete",
       "git:tagName": "main"
     }
   ]
